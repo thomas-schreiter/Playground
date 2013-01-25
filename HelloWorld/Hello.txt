@@ -1,1 +1,3 @@
 Hello, World!
+
+I make a first change and commit it (locally).
