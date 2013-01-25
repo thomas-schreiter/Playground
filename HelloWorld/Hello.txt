@@ -2,4 +2,4 @@ Hello, World!
 
 I make a first change and commit it (locally).
 
-And now a second change. I am going to commit is as well (locally) and then push it (to remote). Let's see what's going to happen.
+And now a second change. I am going to commit is as well (locally) and then push it (to remote). Let's see 
