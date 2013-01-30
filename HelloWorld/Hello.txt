@@ -6,4 +6,7 @@ And now a second change. I am going to commit is as well (locally) and then push
 
 This time, I will stage and commit in one command.
 
-A change in the testing branch.
+A change in the testing branch. 
+And a nother change in testing.
+
+
