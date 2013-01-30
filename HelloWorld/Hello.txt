@@ -1,4 +1,4 @@
-Hello, World!
+Hello, beautiful World!
 
 I make a first change and commit it (locally). Some more info for the master branch.
 
