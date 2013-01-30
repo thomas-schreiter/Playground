@@ -5,3 +5,8 @@ I make a first change and commit it (locally). Some more info for the master bra
 And now a second change. I am going to commit is as well (locally) and then push it (to remote). Let's see when the happy hour starts. 
 
 This time, I will stage and commit in one command.
+
+A change in the testing branch. 
+And a nother change in testing.
+
+
