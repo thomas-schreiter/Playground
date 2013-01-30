@@ -1,6 +1,6 @@
 Hello, World!
 
-I make a first change and commit it (locally).
+I make a first change and commit it (locally). Some more info for the master branch.
 
 And now a second change. I am going to commit is as well (locally) and then push it (to remote). Let's see when the happy hour starts. 
 
