@@ -10,6 +10,8 @@ This time, I will stage and commit in one command.
 
 A change in the testing branch. 
 And a nother change in testing.
+Even more testing stuff.
+
 
 And now for some remote branching.
 
