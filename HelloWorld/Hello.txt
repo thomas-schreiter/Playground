@@ -21,6 +21,8 @@ Lalalala. Foobar. Rhubarb. I like cake.
 
 I wonder what the network graph of ggomes looks like after he pulls the latest version.
 
+Now I will add some more text here and then merge it into the refactor branch, where this file is located in a different directory. I wonder whether git correctly merges these changes.
+
 
 
 
