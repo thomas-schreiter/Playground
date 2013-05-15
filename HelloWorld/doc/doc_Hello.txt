@@ -11,11 +11,9 @@ This time, I will stage and commit in one command.
 And a nother change in testing.
 Even more testing stuff.
 
+And now for some remote branching and even more braching and testing.
 
-And now for some remote branching.
-
-Another line for testing multiline comments.
-More stuff.
+Another line for testing multiline comments. More stuff.
 
 Lalalala. Foobar. Rhubarb. I like cake.
 
