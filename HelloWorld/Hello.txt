@@ -23,6 +23,9 @@ I wonder what the network graph of ggomes looks like after he pulls the latest v
 
 Now I will add some more text here and then merge it into the refactor branch, where this file is located in a different directory. I wonder whether git correctly merges these changes.
 
+This is a new line. The commit will be locally tagged with v0.2.
+
+
 
 
 
